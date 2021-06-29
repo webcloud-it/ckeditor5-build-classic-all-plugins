@@ -1,6 +1,6 @@
 {
 	"name": "@webcloud-it/ckeditor5-build-classic-all-plugins",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"license": "SEE LICENSE IN LICENSE.md",
 	"main": "./build/ckeditor.js",
 	"publishConfig": {
