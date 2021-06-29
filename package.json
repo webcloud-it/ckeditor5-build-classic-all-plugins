@@ -2,7 +2,6 @@
 	"name": "@webcloud-it/ckeditor5-build-classic-all-plugins",
 	"version": "1.0.0",
 	"license": "SEE LICENSE IN LICENSE.md",
-	"private": true,
 	"main": "./build/ckeditor.js",
 	"publishConfig": {
 		"registry": "https://npm.pkg.github.com/"
