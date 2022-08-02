@@ -14,7 +14,8 @@
 	},
 	"homepage": "https://github.com/webcloud-it/ckeditor5-build-classic-all-plugins#readme",
 	"scripts": {
-		"build": "webpack --mode production"
+		"build": "webpack --mode production",
+		"publish": "npm run build && npm publish --access public"
 	},
 	"devDependencies": {
 		"@ckeditor/ckeditor5-alignment": "^32.0.0",
